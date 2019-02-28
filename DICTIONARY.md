@@ -1,9 +1,3 @@
----
-title: 'Epic Impact: Data Dictionary'
-date: 2019-02-25
-authors: Ben Hancock (bhancock@alm.com)
-...
-
 # *Epic Impact*: Data Dictionary
 
 This file describes the variables and values in the data set contained in this
